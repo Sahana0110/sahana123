@@ -1,4 +1,4 @@
 hi
 code error
 use a+b;
-
+missing closing line getch;
